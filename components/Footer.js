@@ -1,5 +1,5 @@
 import styles from './Footer.module.css'
-font-size: 15px;
+
 export default function Footer() {
   return (
     <>
